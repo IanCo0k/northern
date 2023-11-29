@@ -8,7 +8,12 @@ body {
   padding: 0;
   box-sizing: border-box;
   background: #14350a;
+  background-image: url('https://clipart-library.com/images_k/mallard-duck-silhouette/mallard-duck-silhouette-2.png');
+  background-repeat: repeat;
+  background-size: 50px; /* Size of each duck */
+  background-position: 50px; /* Adjust the gap between ducks */
 }
+
 
 h1, h2, h3 {
   font-family: 'Outfit', serif;
